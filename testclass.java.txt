@@ -1,4 +1,8 @@
 I'm Madhuri 
 git 
 Selenium
+<<<<<<< HEAD
 New lined added by madhuri
+=======
+somebody added 
+>>>>>>> aee59b9d19bf22c77b96550f227fbbfa0b0b43bf
